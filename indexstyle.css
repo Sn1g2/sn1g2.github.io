@@ -1,0 +1,39 @@
+/* fichier css    style de la page index        */
+
+
+  
+  p
+  {
+	  color:rgb(238, 255, 0);
+  }
+  
+  div
+  {
+	   color:rgb(0, 255, 13); width:80%; text-align;
+  }
+  
+ .paragraphe3
+ {
+	 color: red; font-size: 18px;
+ }
+ .Dernierparagraphe
+ {
+	 border:2px dotted; border-top-color: rgb(255, 255, 255); border-right-color: rgb(255, 255, 255); border-bottom-color: rgb(255, 255, 255); border-left-color: rgb(255, 255, 255); padding: 1em; margin: 1em;
+ }
+ 
+ 
+ {
+	 position: fixed; left: 12px; right: 24px; top: 14px; bottom: 16px
+ }
+ .Lien
+ {
+  color: rgb(19, 74, 255); font-size: 20px; position: absolute; left: 48% ; top: 70%; right: 54% ; bottom: 30% ;
+ }
+ .Menu
+ {
+  color: rgb(255, 255, 255); font-size: 20px; position: relative; margin-bottom: 0px; text-align: center;
+ }
+ .Avantdernierparagraphe
+ {
+  border:2px dotted; border-top-color: rgb(255, 255, 255); border-right-color: rgb(255, 255, 255); border-bottom-color: rgb(255, 255, 255); border-left-color: rgb(255, 255, 255); padding: 1em; margin: 1em;  
+ }
